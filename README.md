@@ -4,7 +4,7 @@
 
 ### Simpson
 
-##### The Simpsons 1/3 function connects equally spaced points between f(a) and f(b) with a 2nd order polynomial. More specifically it solves for the integral of a function divided into three segments.
+##### The Simpsons 1/3 function takes a matrix of data, usually broken down into an x and y group. This finds the integral of data points rather than a true function. It breaks the data points into three segments and if there is more spacing after the three segments then the trapezoidal rule is used.
 
 
 ### luFactorization

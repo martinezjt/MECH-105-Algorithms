@@ -2,7 +2,7 @@
 
 ### Basic Description
 
-##### This matrix determines the upper and lower matrix of an initial inputted square matrix. 
+##### 
 
 ### Inputs
 

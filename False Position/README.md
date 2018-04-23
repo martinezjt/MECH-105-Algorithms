@@ -20,4 +20,4 @@
 
 ### Other Information
 
-##### No other information necessary for this function
+##### No other information necessary for this function.
